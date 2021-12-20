@@ -20,7 +20,7 @@ title                    : "zookeeper464's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김 하진"
-description              : "An amazing website."
+description              : "신입 개발자 김하진의 블로그"
 url                      : "https://zookeeper464.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
